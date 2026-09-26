@@ -1,0 +1,5 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="8" fill="#0B0B0B" />
+  <text x="32" y="38" font-family="'Space Grotesk', 'Inter Tight', sans-serif" font-weight="700" font-size="24" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle" letter-spacing="-0.04em">SRP</text>
+  <circle cx="54" cy="10" r="4" fill="#C8102E" />
+</svg>
