@@ -200,17 +200,17 @@ export const content = {
         title: "YouTube",
         subtitle: "Reddy Decoded",
         desc: "Long-form breakdowns, builds, and deep dives.",
-        url: "#" // [YOUTUBE_URL placeholder]
+        url: "https://www.youtube.com/@reddy_decoded"
       },
       {
         title: "Instagram",
         subtitle: "@reddy_decoded",
         desc: "Daily drops, reels, and quick explainers.",
-        url: "#" // [INSTAGRAM_REDDY_URL placeholder]
+        url: "https://www.instagram.com/reddy_decoded/"
       }
     ],
     personalText: "Personal: @shrikanteshwar_reddy →",
-    personalUrl: "#" // [INSTAGRAM_PERSONAL_URL placeholder]
+    personalUrl: "https://www.instagram.com/shrikanteshwar_reddy/"
   },
   certifications: {
     eyebrow: "CERTIFICATIONS",
@@ -293,9 +293,9 @@ export const content = {
     details: [
       { label: "Email", value: "shrikanteshwar.reddy@gmail.com", href: "mailto:shrikanteshwar.reddy@gmail.com" },
       { label: "Location", value: "Hyderabad, Telangana, India", href: null },
-      { label: "Instagram", value: "@shrikanteshwar_reddy", href: "#" }, // [INSTAGRAM_PERSONAL_URL]
-      { label: "Reddy Decoded", value: "YouTube + Instagram", href: "#" }, // link out if needed
-      { label: "LinkedIn", value: "Connect on LinkedIn", href: "#" } // [LINKEDIN_URL]
+      { label: "Instagram", value: "@shrikanteshwar_reddy", href: "https://www.instagram.com/shrikanteshwar_reddy/" },
+      { label: "Reddy Decoded", value: "YouTube + Instagram", href: "https://www.youtube.com/@reddy_decoded" },
+      { label: "LinkedIn", value: "Connect on LinkedIn", href: "https://www.linkedin.com/in/shrikanteshwar-reddy/" }
     ]
   },
   footer: {
