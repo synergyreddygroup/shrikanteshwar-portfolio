@@ -12,8 +12,8 @@ export const content = {
   hero: {
     status: "Available for New Opportunities",
     title: "Shrikanteshwar Reddy Pasham",
-    subtitle: "Founder · Product Builder · Tech & Systems Strategist",
-    description: "Building scalable, tech-driven solutions across digital marketing, automation, and technology ventures. Founder of Reddy Experts™, based in Hyderabad, India.",
+    subtitle: "Founder · Real Estate Tech Builder · Product & Systems Strategist",
+    description: "Founder of Reddy Experts™ — an independent property intelligence platform and real estate creative division under Synergy Reddy Group, based in Hyderabad, India.",
     quote: "I build first, polish later.",
     ctaPrimary: { text: "View Projects", href: "#projects" },
     ctaSecondary: { text: "Download Profile (PDF)", href: "/resume.pdf" }
@@ -21,10 +21,11 @@ export const content = {
   about: {
     id: "about",
     eyebrow: "ABOUT ME",
-    title: "Bridging Engineering, Technology, and Business",
+    title: "Bridging Engineering, Technology, and Real Estate",
     body: [
-      "I'm a civil engineering student at RGUKT Basar and a student-entrepreneur based in Hyderabad, Telangana. I work at the intersection of technology, systems, and business — building practical, scalable solutions rather than academic-only projects.",
-      "Currently, I run Reddy Experts™, a digital marketing and tech solutions agency I founded in June 2026. Previously, I founded Canies Academy™, an edtech venture that is temporarily closed as I focus on scaling Reddy Experts. My work spans web systems, cloud-based automation, AI-assisted workflows, and early-stage product development."
+      "I'm a civil engineering student at RGUKT Basar and a student-entrepreneur based in Hyderabad, Telangana. I work at the intersection of technology, real estate, and business — building practical, data-driven systems rather than academic-only projects.",
+      "Currently, I run Reddy Experts™, an independent property intelligence platform and real estate creative division under Synergy Reddy Group, which I founded in June 2026. We combine physical property audits, 8-point structural ratings, honest video walkthroughs, and high-converting real estate marketing for builders and agents across Hyderabad and Telangana.",
+      "Previously, I founded Canies Academy™, an edtech venture that is temporarily closed as I focus on scaling Reddy Experts."
     ],
     cards: [
       {
@@ -46,38 +47,41 @@ export const content = {
   },
   stats: [
     { value: "5+", label: "Startups Collaborated" },
-    { value: "5,000+", label: "Students Impacted" },
+    { value: "8-Point", label: "Property Audit Framework" },
     { value: "12+", label: "Certifications" },
-    { value: "2026", label: "Building Since" }
+    { value: "2026", label: "Building Reddy Experts Since" }
   ],
   whatIDo: {
     eyebrow: "WHAT I DO",
     title: "Categorized Expertise",
-    intro: "A holistic approach to technology development and digital growth, from hardware systems to high-level strategic product decisions.",
+    intro: "A holistic approach to real estate technology — from physical property audits to high-converting digital marketing systems.",
     columns: [
       {
-        label: "Digital Marketing & Growth",
+        label: "Real Estate Marketing",
         items: [
-          "SEO",
-          "Social media marketing",
-          "Branding",
-          "Content strategy",
-          "Performance campaigns"
+          "High-impact posters",
+          "Cinematic property reels",
+          "Project branding",
+          "Social media content",
+          "WhatsApp lead ecosystems"
         ]
       },
       {
-        label: "Product & Systems",
+        label: "Property Intelligence",
         items: [
-          "Product ideation → execution",
-          "Automation-first thinking",
-          "Scalable venture design"
+          "8-point structural audits",
+          "Honest video walkthroughs",
+          "Independent, never sponsored",
+          "Construction quality analysis",
+          "Future value ROI"
         ]
       },
       {
-        label: "Technology",
+        label: "Technology & Systems",
         items: [
           "Web apps & internal tools",
           "Linux & cloud systems",
+          "AI-assisted workflows",
           "Databases & deployment"
         ]
       }
@@ -87,35 +91,39 @@ export const content = {
     id: "projects",
     eyebrow: "SELECTED WORK",
     title: "Proof of Impact",
-    intro: "A focused look at recent systems development, automation projects, and strategic expansions.",
+    intro: "A focused look at recent systems, ventures, and strategic expansions.",
     list: [
       {
         id: "01",
-        title: "Founded Reddy Experts™ — a digital marketing & tech agency (June 2026–Present)"
+        title: "Founded Reddy Experts™ — independent property intelligence platform & real estate creative division (June 2026–Present)"
       },
       {
         id: "02",
-        title: "Built Linux & cloud-based automation systems for startup operations"
+        title: "Built an 8-point property audit framework — construction quality, ventilation, lighting, Vastu, legal clearance, and future ROI"
       },
       {
         id: "03",
-        title: "Applied AI tools to improve workflows and decision-making"
+        title: "Launched Creative Division — real estate marketing packages for builders & agents (posters, reels, banners, WhatsApp lead systems)"
       },
       {
         id: "04",
-        title: "Collaborated with 5+ startups on product and system development"
+        title: "Built Linux & cloud-based automation systems for startup operations"
       },
       {
         id: "05",
-        title: "Ran nationwide student tech events — Tech Olympiad 2025 and TechSpark 2025"
+        title: "Applied AI tools to improve workflows and decision-making"
       },
       {
         id: "06",
-        title: "Founded and scaled Canies Academy™ — edtech venture (2023–2026, now temporarily closed)"
+        title: "Collaborated with 5+ startups on product and system development"
       },
       {
         id: "07",
-        title: "Expanded Synergy Reddy Group through new service verticals"
+        title: "Ran nationwide student tech events — Tech Olympiad 2025 and TechSpark 2025"
+      },
+      {
+        id: "08",
+        title: "Founded and scaled Canies Academy™ — edtech venture (2023–2026, now temporarily closed)"
       }
     ]
   },
@@ -125,13 +133,14 @@ export const content = {
     title: "Professional History",
     timeline: [
       {
-        role: "Founder",
+        role: "Founder & Chief Architect",
         company: "Reddy Experts™",
         date: "June 2026–Present",
         points: [
-          "Founded a full-service digital marketing and tech solutions agency based in Hyderabad",
-          "Offering digital marketing, web/app development, branding, and automation services",
-          "Scaling client acquisition and building productized service offerings"
+          "Founded an independent property intelligence platform and real estate creative division under Synergy Reddy Group",
+          "Built an 8-point structural audit system for honest property reviews across Hyderabad and Telangana",
+          "Launched real estate marketing packages (posters, reels, banners, WhatsApp lead systems) for builders & agents",
+          "Serving buyers with lower-commission access (as low as 0.8%) and builders with plans from ₹10,000"
         ]
       },
       {
@@ -141,7 +150,6 @@ export const content = {
         points: [
           "Founded and scaled an edtech venture training school students in emerging tech (AI, IoT, cybersecurity)",
           "Built an industry-integrated talent pipeline for tech skills",
-          "Designed digital learning architectures and automation workflows",
           "Operations paused as focus shifted to Reddy Experts"
         ]
       },
@@ -150,9 +158,9 @@ export const content = {
         company: "Synergy Reddy Group™",
         date: "2023–Present",
         points: [
+          "Parent group spanning real estate, edtech, digital marketing, and campus commerce",
           "Worked with 5+ startups on automation, scaling, and product strategy",
-          "Ran Tech Olympiad 2025 and TechSpark 2025 nationwide student events",
-          "Building large-scale, product-based ventures through innovation"
+          "Ran Tech Olympiad 2025 and TechSpark 2025 nationwide student events"
         ]
       },
       {
@@ -174,7 +182,7 @@ export const content = {
       {
         institution: "RGUKT Basar",
         degree: "B.Tech in Civil Engineering (2024–Present)",
-        description: "Professional engineering background with a focus on systems and structural foundations."
+        description: "Professional engineering background with a focus on systems, structural foundations, and construction quality — directly informing the Reddy Experts property audit framework."
       },
       {
         institution: "RGUKT Basar",
@@ -186,7 +194,7 @@ export const content = {
   decoded: {
     eyebrow: "REDDY DECODED",
     title: "Building in Public",
-    body: "I document the build — breaking down technology, AI, and entrepreneurship into things people can actually use. No jargon, no gatekeeping.",
+    body: "I document the build — breaking down real estate, technology, AI, and entrepreneurship into things people can actually use. No jargon, no gatekeeping.",
     cards: [
       {
         title: "YouTube",
@@ -242,19 +250,23 @@ export const content = {
     list: [
       {
         q: "Who is Shrikanteshwar Reddy Pasham?",
-        a: "Shrikanteshwar Reddy Pasham is an Indian student-entrepreneur and digital marketing founder based in Hyderabad, Telangana. He is the Founder of Reddy Experts™, a digital marketing and tech solutions agency, and previously founded Canies Academy™, an edtech venture."
+        a: "Shrikanteshwar Reddy Pasham is an Indian student-entrepreneur based in Hyderabad, Telangana. He is the Founder & Chief Architect of Reddy Experts™, an independent property intelligence platform and real estate creative division, and previously founded Canies Academy™, an edtech venture."
       },
       {
         q: "What is Reddy Experts?",
-        a: "Reddy Experts™ is a Hyderabad-based digital marketing and tech solutions agency founded by Shrikanteshwar Reddy Pasham in June 2026. It offers digital marketing, web and app development, branding, and automation services for startups and growing businesses."
+        a: "Reddy Experts™ is an independent property intelligence platform and real estate creative division based in Hyderabad, founded by Shrikanteshwar Reddy Pasham in June 2026. It provides 8-point property audits, honest video walkthroughs, and real estate marketing creatives for builders and agents across Hyderabad and Telangana."
+      },
+      {
+        q: "What is the 8-point property audit?",
+        a: "The Reddy Experts 8-point audit is an independent evaluation framework covering construction quality, ventilation flow, natural lighting, ease of access, future value ROI, Vastu compliance, neighbourhood quality, and legal clearance. Every property is physically visited and rated, never sponsored."
       },
       {
         q: "What happened to Canies Academy?",
-        a: "Canies Academy™, an edtech venture founded by Shrikanteshwar Reddy Pasham, is temporarily closed as of 2026. The founder shifted focus to scaling Reddy Experts™, his digital marketing and tech agency."
+        a: "Canies Academy™, an edtech venture founded by Shrikanteshwar Reddy Pasham, is temporarily closed as of 2026. The founder shifted focus to scaling Reddy Experts™."
       },
       {
         q: "What is Synergy Reddy Group?",
-        a: "Synergy Reddy Group™ is a student-led startup conglomerate founded in 2023 and led by Shrikanteshwar Reddy Pasham as CEO & Chief Architect. Its sub-brands have included Canies Academy, Reddy Experts, and Black Box Hub."
+        a: "Synergy Reddy Group™ is a student-led startup conglomerate founded in 2023 and led by Shrikanteshwar Reddy Pasham. Its ventures have included Reddy Experts (real estate), Canies Academy (edtech), and Black Box Hub (campus commerce)."
       },
       {
         q: "Where is Shrikanteshwar Reddy Pasham based?",

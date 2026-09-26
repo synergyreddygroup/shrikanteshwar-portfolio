@@ -1,51 +1,54 @@
 # Shrikanteshwar Reddy Pasham
-Shrikanteshwar Reddy Pasham is a Hyderabad-based student-entrepreneur, Founder of Reddy Experts™, a digital marketing and tech solutions agency.
+Shrikanteshwar Reddy Pasham is a Hyderabad-based student-entrepreneur, Founder of Reddy Experts™, an independent property intelligence platform and real estate creative division.
 
 ## Hero Section
 Available for New Opportunities
-Founder · Product Builder · Tech & Systems Strategist
-Building scalable, tech-driven solutions across digital marketing, automation, and technology ventures. Founder of Reddy Experts™, based in Hyderabad, India.
+Founder · Real Estate Tech Builder · Product & Systems Strategist
+Founder of Reddy Experts™ — an independent property intelligence platform and real estate creative division under Synergy Reddy Group, based in Hyderabad, India.
 "I build first, polish later."
 
 ## About Me
-Bridging Engineering, Technology, and Business
-I'm a civil engineering student at RGUKT Basar and a student-entrepreneur based in Hyderabad, Telangana. I work at the intersection of technology, systems, and business — building practical, scalable solutions rather than academic-only projects.
+Bridging Engineering, Technology, and Real Estate
+I'm a civil engineering student at RGUKT Basar and a student-entrepreneur based in Hyderabad, Telangana. I work at the intersection of technology, real estate, and business — building practical, data-driven systems rather than academic-only projects.
 
-Currently, I run Reddy Experts™, a digital marketing and tech solutions agency I founded in June 2026. Previously, I founded Canies Academy™, an edtech venture that is temporarily closed as I focus on scaling Reddy Experts. My work spans web systems, cloud-based automation, AI-assisted workflows, and early-stage product development.
+Currently, I run Reddy Experts™, an independent property intelligence platform and real estate creative division under Synergy Reddy Group, which I founded in June 2026. We combine physical property audits, 8-point structural ratings, honest video walkthroughs, and high-converting real estate marketing for builders and agents across Hyderabad and Telangana.
+
+Previously, I founded Canies Academy™, an edtech venture that is temporarily closed as I focus on scaling Reddy Experts.
 
 - Execution First: I focus on breaking complex problems into deployable solutions using technology, data, and structured decision-making.
 - Scalable Systems: I believe real impact comes from building systems that scale, not just learning tools or collecting certificates.
 - Venture Design: Driven by curiosity and experimentation to create product-based businesses that solve real-world problems.
 
 ## Categorized Expertise
-A holistic approach to technology development and digital growth, from hardware systems to high-level strategic product decisions.
-- Digital Marketing & Growth: SEO, Social media marketing, Branding, Content strategy, Performance campaigns.
-- Product & Systems: Product ideation execution, Automation-first thinking, Scalable venture design.
-- Technology: Web apps & internal tools, Linux & cloud systems, Databases & deployment.
+A holistic approach to real estate technology — from physical property audits to high-converting digital marketing systems.
+- Real Estate Marketing: High-impact posters, Cinematic property reels, Project branding, Social media content, WhatsApp lead ecosystems.
+- Property Intelligence: 8-point structural audits, Honest video walkthroughs, Independent, never sponsored, Construction quality analysis, Future value ROI.
+- Technology & Systems: Web apps & internal tools, Linux & cloud systems, AI-assisted workflows, Databases & deployment.
 
 ## Selected Work
 Proof of Impact
-- Founded Reddy Experts™ — a digital marketing & tech agency (June 2026–Present)
+- Founded Reddy Experts™ — independent property intelligence platform & real estate creative division (June 2026–Present)
+- Built an 8-point property audit framework — construction quality, ventilation, lighting, Vastu, legal clearance, and future ROI
+- Launched Creative Division — real estate marketing packages for builders & agents (posters, reels, banners, WhatsApp lead systems)
 - Built Linux & cloud-based automation systems for startup operations
 - Applied AI tools to improve workflows and decision-making
 - Collaborated with 5+ startups on product and system development
 - Ran nationwide student tech events — Tech Olympiad 2025 and TechSpark 2025
 - Founded and scaled Canies Academy™ — edtech venture (2023–2026, now temporarily closed)
-- Expanded Synergy Reddy Group through new service verticals
 
 ## Professional History
-- Reddy Experts™ — Founder (June 2026–Present). Founded a full-service digital marketing and tech solutions agency based in Hyderabad. Offering digital marketing, web/app development, branding, and automation services. Scaling client acquisition and building productized service offerings.
-- Canies Academy™ — Founder & CEO (2023–2026, Temporarily Closed). Founded and scaled an edtech venture training school students in emerging tech (AI, IoT, cybersecurity). Built an industry-integrated talent pipeline for tech skills. Designed digital learning architectures and automation workflows. Operations paused as focus shifted to Reddy Experts.
-- Synergy Reddy Group™ — Co-Founder, CEO & Chief Architect (2023–Present). Worked with 5+ startups on automation, scaling, and product strategy. Ran Tech Olympiad 2025 and TechSpark 2025 nationwide student events. Building large-scale, product-based ventures through innovation.
+- Reddy Experts™ — Founder & Chief Architect (June 2026–Present). Founded an independent property intelligence platform and real estate creative division under Synergy Reddy Group. Built an 8-point structural audit system for honest property reviews across Hyderabad and Telangana. Launched real estate marketing packages for builders & agents. Serving buyers with lower-commission access and builders with plans from ₹10,000.
+- Canies Academy™ — Founder & CEO (2023–2026, Temporarily Closed). Founded and scaled an edtech venture training school students in emerging tech (AI, IoT, cybersecurity). Built an industry-integrated talent pipeline for tech skills. Operations paused as focus shifted to Reddy Experts.
+- Synergy Reddy Group™ — Co-Founder, CEO & Chief Architect (2023–Present). Parent group spanning real estate, edtech, digital marketing, and campus commerce. Worked with 5+ startups on automation, scaling, and product strategy. Ran Tech Olympiad 2025 and TechSpark 2025 nationwide student events.
 - Black Box — Director (2023–2024). Directed a campus-based smart snacks store with 5-minute delivery. Impacted 5,000+ students' lives via late-night campus logistics. Managed end-to-end rapid food distribution.
 
 ## Formal Education
-- RGUKT Basar — B.Tech in Civil Engineering (2024–Present)
-- RGUKT Basar — Pre-University Course (PUC), Computer & Information Sciences
+- RGUKT Basar — B.Tech in Civil Engineering (2024–Present). Professional engineering background with a focus on systems, structural foundations, and construction quality — directly informing the Reddy Experts property audit framework.
+- RGUKT Basar — Pre-University Course (PUC), Computer & Information Sciences. Integrated foundational studies in technology, science, and engineering.
 
 ## Reddy Decoded
 Building in Public
-I document the build — breaking down technology, AI, and entrepreneurship into things people can actually use. No jargon, no gatekeeping. (YouTube and Instagram at @reddy_decoded).
+I document the build — breaking down real estate, technology, AI, and entrepreneurship into things people can actually use. No jargon, no gatekeeping. (YouTube and Instagram at @reddy_decoded).
 
 ## Certifications
 Continuous Learning
@@ -64,28 +67,31 @@ Databases: Firebase, Supabase, MongoDB, MySQL
 
 ## Frequently Asked Questions (FAQ)
 Q1: Who is Shrikanteshwar Reddy Pasham?
-A1: Shrikanteshwar Reddy Pasham is an Indian student-entrepreneur and digital marketing founder based in Hyderabad, Telangana. He is the Founder of Reddy Experts™, a digital marketing and tech solutions agency, and previously founded Canies Academy™, an edtech venture.
+A1: Shrikanteshwar Reddy Pasham is an Indian student-entrepreneur based in Hyderabad, Telangana. He is the Founder & Chief Architect of Reddy Experts™, an independent property intelligence platform and real estate creative division, and previously founded Canies Academy™, an edtech venture.
 
 Q2: What is Reddy Experts?
-A2: Reddy Experts™ is a Hyderabad-based digital marketing and tech solutions agency founded by Shrikanteshwar Reddy Pasham in June 2026. It offers digital marketing, web and app development, branding, and automation services for startups and growing businesses.
+A2: Reddy Experts™ is an independent property intelligence platform and real estate creative division based in Hyderabad, founded by Shrikanteshwar Reddy Pasham in June 2026. It provides 8-point property audits, honest video walkthroughs, and real estate marketing creatives for builders and agents across Hyderabad and Telangana.
 
-Q3: What happened to Canies Academy?
-A3: Canies Academy™, an edtech venture founded by Shrikanteshwar Reddy Pasham, is temporarily closed as of 2026. The founder shifted focus to scaling Reddy Experts™, his digital marketing and tech agency.
+Q3: What is the 8-point property audit?
+A3: The Reddy Experts 8-point audit is an independent evaluation framework covering construction quality, ventilation flow, natural lighting, ease of access, future value ROI, Vastu compliance, neighbourhood quality, and legal clearance. Every property is physically visited and rated, never sponsored.
 
-Q4: What is Synergy Reddy Group?
-A4: Synergy Reddy Group™ is a student-led startup conglomerate founded in 2023 and led by Shrikanteshwar Reddy Pasham as CEO & Chief Architect. Its sub-brands have included Canies Academy, Reddy Experts, and Black Box Hub.
+Q4: What happened to Canies Academy?
+A4: Canies Academy™, an edtech venture founded by Shrikanteshwar Reddy Pasham, is temporarily closed as of 2026. The founder shifted focus to scaling Reddy Experts™.
 
-Q5: Where is Shrikanteshwar Reddy Pasham based?
-A5: He is based in Hyderabad, Telangana, India, and studies at Rajiv Gandhi University of Knowledge Technologies (RGUKT) Basar.
+Q5: What is Synergy Reddy Group?
+A5: Synergy Reddy Group™ is a student-led startup conglomerate founded in 2023 and led by Shrikanteshwar Reddy Pasham. Its ventures have included Reddy Experts (real estate), Canies Academy (edtech), and Black Box Hub (campus commerce).
 
-Q6: What certifications does Shrikanteshwar Reddy Pasham hold?
-A6: His certifications include Digital Productivity with AI (UNICEF), AI for Entrepreneurship (Intel), Network Security Engineer (Skill India), Software Engineering Job Simulation (JPMorgan Chase), and multiple Coursera certificates in WordPress, SEO, and Business Analysis.
+Q6: Where is Shrikanteshwar Reddy Pasham based?
+A6: He is based in Hyderabad, Telangana, India, and studies at Rajiv Gandhi University of Knowledge Technologies (RGUKT) Basar.
 
-Q7: What is Reddy Decoded?
-A7: Reddy Decoded is Shrikanteshwar Reddy Pasham's content brand on YouTube and Instagram where he documents his journey building technology products and startups, breaking down AI, tech, and entrepreneurship for a general audience.
+Q7: What certifications does Shrikanteshwar Reddy Pasham hold?
+A7: His certifications include Digital Productivity with AI (UNICEF), AI for Entrepreneurship (Intel), Network Security Engineer (Skill India), Software Engineering Job Simulation (JPMorgan Chase), and multiple Coursera certificates in WordPress, SEO, and Business Analysis.
 
-Q8: How can I contact Shrikanteshwar Reddy Pasham?
-A8: You can reach him at shrikanteshwar.reddy@gmail.com or connect via LinkedIn and Instagram (@shrikanteshwar_reddy).
+Q8: What is Reddy Decoded?
+A8: Reddy Decoded is Shrikanteshwar Reddy Pasham's content brand on YouTube and Instagram where he documents his journey building technology products and startups, breaking down AI, tech, and entrepreneurship for a general audience.
+
+Q9: How can I contact Shrikanteshwar Reddy Pasham?
+A9: You can reach him at shrikanteshwar.reddy@gmail.com or connect via LinkedIn and Instagram (@shrikanteshwar_reddy). He is open to collaborations, product roles, and early-stage venture partnerships.
 
 ## Contact Information
 Email: shrikanteshwar.reddy@gmail.com
