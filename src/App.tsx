@@ -149,9 +149,11 @@ function App() {
                 <a href={content.hero.ctaPrimary.href} className="bg-crimson text-paper px-6 py-3 rounded-[4px] font-medium text-center hover:bg-crimson-deep transition-colors">
                   {content.hero.ctaPrimary.text}
                 </a>
+                {/* 
                 <a href={content.hero.ctaSecondary.href} download="Shrikanteshwar_Reddy_Profile.pdf" target="_blank" rel="noopener noreferrer" className="bg-paper text-ink border border-ink px-6 py-3 rounded-[4px] font-medium text-center hover:text-crimson hover:border-crimson transition-colors">
                   {content.hero.ctaSecondary.text}
-                </a>
+                </a> 
+                */}
               </div>
             </div>
             <div className="md:col-span-4 flex justify-center md:justify-end clip-reveal">
