@@ -13,7 +13,7 @@ export const content = {
     status: "Available for New Opportunities",
     title: "Shrikanteshwar Reddy Pasham",
     subtitle: "Founder · Product Builder · Tech & Systems Strategist",
-    description: "Building scalable, tech-driven solutions across education, automation, and digital businesses. Founder of Canies Academy™ and Synergy Reddy Group™, based in Hyderabad, India.",
+    description: "Building scalable, tech-driven solutions across digital marketing, automation, and technology ventures. Founder of Reddy Experts™, based in Hyderabad, India.",
     quote: "I build first, polish later.",
     ctaPrimary: { text: "View Projects", href: "#projects" },
     ctaSecondary: { text: "Download Profile (PDF)", href: "/resume.pdf" }
@@ -24,7 +24,7 @@ export const content = {
     title: "Bridging Engineering, Technology, and Business",
     body: [
       "I'm a civil engineering student at RGUKT Basar and a student-entrepreneur based in Hyderabad, Telangana. I work at the intersection of technology, systems, and business — building practical, scalable solutions rather than academic-only projects.",
-      "As Founder & CEO of Canies Academy™ and Co-Founder & Chief Architect of Synergy Reddy Group™, I lead operations, product thinking, and automation across multiple ventures. My work spans web systems, cloud-based automation, AI-assisted workflows, electronics, and early-stage product development."
+      "Currently, I run Reddy Experts™, a digital marketing and tech solutions agency I founded in June 2026. Previously, I founded Canies Academy™, an edtech venture that is temporarily closed as I focus on scaling Reddy Experts. My work spans web systems, cloud-based automation, AI-assisted workflows, and early-stage product development."
     ],
     cards: [
       {
@@ -48,13 +48,23 @@ export const content = {
     { value: "5+", label: "Startups Collaborated" },
     { value: "5,000+", label: "Students Impacted" },
     { value: "12+", label: "Certifications" },
-    { value: "2023", label: "Building Since" }
+    { value: "2026", label: "Building Since" }
   ],
   whatIDo: {
     eyebrow: "WHAT I DO",
     title: "Categorized Expertise",
-    intro: "A holistic approach to technology development, from hardware systems to high-level strategic product decisions.",
+    intro: "A holistic approach to technology development and digital growth, from hardware systems to high-level strategic product decisions.",
     columns: [
+      {
+        label: "Digital Marketing & Growth",
+        items: [
+          "SEO",
+          "Social media marketing",
+          "Branding",
+          "Content strategy",
+          "Performance campaigns"
+        ]
+      },
       {
         label: "Product & Systems",
         items: [
@@ -70,14 +80,6 @@ export const content = {
           "Linux & cloud systems",
           "Databases & deployment"
         ]
-      },
-      {
-        label: "Hardware & Emerging Tech",
-        items: [
-          "Robotics & AI fundamentals",
-          "Electronics & PCB design",
-          "IoT & automation"
-        ]
       }
     ]
   },
@@ -89,27 +91,27 @@ export const content = {
     list: [
       {
         id: "01",
-        title: "Built Linux & cloud-based automation systems for startup operations"
+        title: "Founded Reddy Experts™ — a digital marketing & tech agency (June 2026–Present)"
       },
       {
         id: "02",
-        title: "Designed digital learning modules for Canies Academy"
+        title: "Built Linux & cloud-based automation systems for startup operations"
       },
       {
         id: "03",
-        title: "Ran nationwide student tech events — Tech Olympiad 2025 and TechSpark 2025"
-      },
-      {
-        id: "04",
-        title: "Founded Reddy Experts — a full-service digital marketing & tech agency (2025)"
-      },
-      {
-        id: "05",
         title: "Applied AI tools to improve workflows and decision-making"
       },
       {
-        id: "06",
+        id: "04",
         title: "Collaborated with 5+ startups on product and system development"
+      },
+      {
+        id: "05",
+        title: "Ran nationwide student tech events — Tech Olympiad 2025 and TechSpark 2025"
+      },
+      {
+        id: "06",
+        title: "Founded and scaled Canies Academy™ — edtech venture (2023–2026, now temporarily closed)"
       },
       {
         id: "07",
@@ -123,13 +125,24 @@ export const content = {
     title: "Professional History",
     timeline: [
       {
+        role: "Founder",
+        company: "Reddy Experts™",
+        date: "June 2026–Present",
+        points: [
+          "Founded a full-service digital marketing and tech solutions agency based in Hyderabad",
+          "Offering digital marketing, web/app development, branding, and automation services",
+          "Scaling client acquisition and building productized service offerings"
+        ]
+      },
+      {
         role: "Founder & CEO",
         company: "Canies Academy™",
-        date: "2023–Present",
+        date: "2023–2026 (Temporarily Closed)",
         points: [
           "Founded and scaled an edtech venture training school students in emerging tech (AI, IoT, cybersecurity)",
           "Built an industry-integrated talent pipeline for tech skills",
-          "Designed digital learning architectures and automation workflows"
+          "Designed digital learning architectures and automation workflows",
+          "Operations paused as focus shifted to Reddy Experts"
         ]
       },
       {
@@ -137,7 +150,6 @@ export const content = {
         company: "Synergy Reddy Group™",
         date: "2023–Present",
         points: [
-          "Founded Reddy Experts, a full-service agency for digital marketing, web/app development, and branding (2025)",
           "Worked with 5+ startups on automation, scaling, and product strategy",
           "Ran Tech Olympiad 2025 and TechSpark 2025 nationwide student events",
           "Building large-scale, product-based ventures through innovation"
@@ -217,7 +229,6 @@ export const content = {
       { label: "Programming", items: ["JavaScript", "React", "Python", "Basic C++"] },
       { label: "App Dev", items: ["Flutter", "MIT App Inventor"] },
       { label: "Design", items: ["AutoCAD", "3D CAD", "Graphic Design", "Adobe Creative Suite"] },
-      { label: "Electronics", items: ["EasyEDA", "PCB Design"] },
       { label: "Systems", items: ["Linux", "Shell Scripting"] },
       { label: "AI", items: ["Prompt Engineering", "AI-assisted workflows"] },
       { label: "Security & Research", items: ["Malware development (academic)", "Antivirus research"] },
@@ -231,19 +242,19 @@ export const content = {
     list: [
       {
         q: "Who is Shrikanteshwar Reddy Pasham?",
-        a: "Shrikanteshwar Reddy Pasham is an Indian student-entrepreneur and edtech founder based in Hyderabad, Telangana. He is the Founder & CEO of Canies Academy™, an education technology venture training school students in AI, IoT, and cybersecurity, and Co-Founder & Chief Architect of Synergy Reddy Group™."
-      },
-      {
-        q: "What is Canies Academy?",
-        a: "Canies Academy™ is an edtech venture founded by Shrikanteshwar Reddy Pasham that trains school students in emerging technologies including AI, IoT, and cybersecurity. It operates as an industry-integrated talent pipeline under Synergy Reddy Group™."
-      },
-      {
-        q: "What is Synergy Reddy Group?",
-        a: "Synergy Reddy Group™ is a student-led startup conglomerate founded in 2023 and led by Shrikanteshwar Reddy Pasham as CEO & Chief Architect. Its sub-brands include Canies Academy, Reddy Experts, and Black Box Hub, spanning edtech, digital marketing, and campus commerce."
+        a: "Shrikanteshwar Reddy Pasham is an Indian student-entrepreneur and digital marketing founder based in Hyderabad, Telangana. He is the Founder of Reddy Experts™, a digital marketing and tech solutions agency, and previously founded Canies Academy™, an edtech venture."
       },
       {
         q: "What is Reddy Experts?",
-        a: "Reddy Experts™ is a Hyderabad-based digital marketing and tech solutions agency founded in 2025 under Synergy Reddy Group. It offers digital marketing, web/app development, and branding services."
+        a: "Reddy Experts™ is a Hyderabad-based digital marketing and tech solutions agency founded by Shrikanteshwar Reddy Pasham in June 2026. It offers digital marketing, web and app development, branding, and automation services for startups and growing businesses."
+      },
+      {
+        q: "What happened to Canies Academy?",
+        a: "Canies Academy™, an edtech venture founded by Shrikanteshwar Reddy Pasham, is temporarily closed as of 2026. The founder shifted focus to scaling Reddy Experts™, his digital marketing and tech agency."
+      },
+      {
+        q: "What is Synergy Reddy Group?",
+        a: "Synergy Reddy Group™ is a student-led startup conglomerate founded in 2023 and led by Shrikanteshwar Reddy Pasham as CEO & Chief Architect. Its sub-brands have included Canies Academy, Reddy Experts, and Black Box Hub."
       },
       {
         q: "Where is Shrikanteshwar Reddy Pasham based?",
